@@ -1,0 +1,23 @@
+{
+  "name": "TailwindCSSExemple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/input.css -o public/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cditiris: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@github.com/cditiris/TailwindCSSExemple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cditiris/TailwindCSSExemple/issues"
+  },
+  "homepage": "https://github.com/cditiris/TailwindCSSExemple#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.6"
+  }
+}
